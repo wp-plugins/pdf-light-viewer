@@ -10,9 +10,10 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Plugin allows you to embed normal, big and very big pdf documents to the wordpress site as flipbooks with thumbnail navigation.
 
+== Description ==
+
 [Website](http://pdf-light-viewer.wp.teamlead.pw/) |  [Demo](http://pdf-light-viewer.wp.teamlead.pw/demo/) | [Docs](http://pdf-light-viewer.wp.teamlead.pw/wp-content/plugins/pdf-light-viewer/documentation/index.html) | [Donate(https://www.liqpay.com/api/pay?&public_key=i92244053838&amount=1¤cy=USD&description=PDF Light Viewer&type=donate&pay_way=card,delayed&language=en)
 
-== Description ==
 = Features =
 * Unlimited PDF files.
 * Unlimited PDF file size without site performance issues.
