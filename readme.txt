@@ -1,7 +1,7 @@
 === Wordpress PDF Light Viewer Plugin ===
 Contributors: antongorodezkiy
 Tags: pdf, pdfs, embed, pdf embed, publish pdf, import pdf
-Donate link: https://www.liqpay.com/api/pay?&public_key=i92244053838&amount=1¤cy=USD&description=PDF Light Viewer&type=donate&pay_way=card,delayed&language=en
+Donate link: https://www.liqpay.com/api/pay?&public_key=i92244053838&amount=1&currency=USD&description=PDF%20Light%20Viewer&type=donate&pay_way=card,delayed&language=en
 Requires at least: 3.5
 Tested up to: 4.0
 Stable tag: 1.0
@@ -12,7 +12,7 @@ Plugin allows you to embed normal, big and very big pdf documents to the wordpre
 
 == Description ==
 
-[Website](http://pdf-light-viewer.wp.teamlead.pw/) |  [Demo](http://pdf-light-viewer.wp.teamlead.pw/demo/) | [Docs](http://pdf-light-viewer.wp.teamlead.pw/wp-content/plugins/pdf-light-viewer/documentation/index.html) | [Donate](https://www.liqpay.com/api/pay?&public_key=i92244053838&amount=1¤cy=USD&description=PDF Light Viewer&type=donate&pay_way=card,delayed&language=en)
+[Website](http://pdf-light-viewer.wp.teamlead.pw/) |  [Demo](http://pdf-light-viewer.wp.teamlead.pw/demo/) | [Docs](http://pdf-light-viewer.wp.teamlead.pw/wp-content/plugins/pdf-light-viewer/documentation/index.html) | [Donate](https://www.liqpay.com/api/pay?&public_key=i92244053838&amount=1&currency=USD&description=PDF%20Light%20Viewer&type=donate&pay_way=card,delayed&language=en)
 
 = Features =
 * Unlimited PDF files.
